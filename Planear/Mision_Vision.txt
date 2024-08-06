@@ -1,0 +1,12 @@
+Misión:
+
+    "Facilitar y optimizar el proceso de reserva de citas en barberías, proporcionando una plataforma intuitiva y eficiente que conecte a 
+    los clientes con barberos profesionales. Nos dedicamos a mejorar la experiencia del cliente mediante la automatización de reservas, 
+    la personalización de recomendaciones y la gestión efectiva del tiempo, contribuyendo así al éxito y crecimiento de las barberías."
+
+Visión:
+
+    "Convertirnos en la plataforma líder mundial en la gestión de citas de barbería, revolucionando la industria con tecnología innovadora 
+    y un enfoque centrado en el cliente. Aspiramos a ser el estándar de excelencia en servicios de barbería, ofreciendo experiencias 
+    sin fricciones y personalizadas que fomenten la fidelidad y satisfacción del cliente en cada interacción."
+

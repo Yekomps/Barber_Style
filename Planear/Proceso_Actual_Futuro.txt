@@ -1,0 +1,80 @@
+Proceso Actual
+
+    1.Cliente Decide Reservar una Cita:
+
+        *El cliente decide que necesita un corte de pelo o algún otro servicio de barbería.
+        Contacto con la Barbería:
+        *El cliente llama a la barbería por teléfono o la visita en persona para consultar la disponibilidad y reservar una cita.
+
+    2.Consulta de Disponibilidad:
+
+        *El personal de la barbería verifica manualmente la disponibilidad en un libro de citas o calendario.
+        *Si hay disponibilidad, el personal informa al cliente sobre los horarios disponibles.
+    
+    3.Selección de Horario:
+
+        *El cliente elige un horario de entre las opciones disponibles.
+        *El personal anota la cita en el libro o calendario y confirma verbalmente la reserva al cliente.
+
+    4.Recordatorio:
+
+        *El cliente debe recordar la cita por sí mismo, ya que no hay un sistema automático de recordatorios.
+        *A veces, el personal puede llamar al cliente el día anterior como recordatorio.
+
+    5.Visita a la Barbería:
+
+        *El cliente llega a la barbería a la hora acordada.
+        *Puede haber problemas si el horario no fue gestionado correctamente (por ejemplo, doble reserva o falta de tiempo suficiente).
+
+    6.Pago:
+
+        *Después de recibir el servicio, el cliente paga en efectivo o consignacion. 
+
+Proceso Futuro
+    
+    1.Cliente Decide Reservar una Cita:
+
+        *El cliente decide que necesita un corte de pelo o algún otro servicio de barbería.
+
+    2.Acceso a la Plataforma:
+
+        *El cliente accede a la plataforma "Barber Style" a través de la aplicación móvil o el sitio web.
+
+    3.Registro e Ingreso:
+
+        *Si es un nuevo usuario, el cliente se registra creando una cuenta.
+        *Si ya es usuario, el cliente inicia sesión con sus credenciales.
+
+    4.Consulta de Disponibilidad:
+
+        *El cliente navega por la sección de reserva de citas y ve la disponibilidad en tiempo real de los barberos.
+        *La plataforma muestra los horarios disponibles para cada barbero y servicio.
+
+    5.Selección de Servicio y Horario:
+
+        *El cliente selecciona el servicio deseado (corte de pelo, afeitado, etc.) y el barbero preferido (si tiene alguno).
+        *El cliente elige un horario de entre las opciones disponibles y confirma la reserva.
+
+    6.Confirmación Automática:
+
+        *La plataforma confirma automáticamente la cita y envía una notificación al cliente con los detalles de la reserva.
+        *El sistema también actualiza el calendario del barbero en tiempo real.
+
+    7.Recordatorios Automáticos:
+
+        *La plataforma envía recordatorios automáticos al cliente antes de la cita, a través de notificaciones push, mensajes SMS o correos electrónicos.
+
+    8.Visita a la Barbería:
+
+        *El cliente llega a la barbería a la hora acordada.
+        *El barbero ya está preparado para recibir al cliente gracias a la gestión eficiente del calendario.
+
+    9.Pagos:
+
+        *El cliente puede pagar en línea a través de la plataforma antes o después del servicio.
+        *Si prefiere, también puede pagar en persona.
+
+    10.Comentarios y Valoraciones:
+
+        *Después del servicio, el cliente recibe una solicitud para dejar un comentario y valoración sobre su experiencia.
+        *Esta información se usa para mejorar el servicio y ayudar a otros clientes.

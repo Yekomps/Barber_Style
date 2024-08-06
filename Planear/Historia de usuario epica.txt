@@ -1,0 +1,44 @@
+Historia de usuario epica
+
+1. Nombre del Proyecto: Barber Style
+
+2. Proceso: Reservar una cita en una barbería
+
+3. Actores:
+
+    Cliente: Persona que busca servicios de barbería.
+    Barbero: Profesional que ofrece servicios de barbería.
+    Secretario/Asistente: Persona que gestiona las operaciones de la barbería, incluyendo la asignación de citas y recursos.
+
+4. Producto o Servicio:
+
+    Estetico: Corte de cabello y cuidado de barba personalizado, proporcionando un estilo fresco y bien cuidado con técnicas profesionales.
+    Plataforma de Reserva de Citas: Una aplicación web y móvil que permite a los clientes reservar citas en una barbería, seleccionar servicios específicos, y recibir recomendaciones personalizadas de estilo.
+
+5. Escenario Actual:
+
+    En la actualidad, los clientes de la barbería deben llamar por teléfono o visitar físicamente la barbería para reservar una cita. Esto puede ser inconveniente tanto para los clientes como para los barberos, y puede resultar en citas perdidas o mal gestionadas debido a errores humanos o falta de comunicación efectiva.
+
+6. Escenario Objetivo:
+
+    La plataforma "Barber Style" permitirá a los clientes reservar citas en línea de manera fácil y conveniente, seleccionar servicios de barbería, y recibir confirmaciones automáticas. Los barberos y el administrador podrán gestionar todas las reservas, horarios y servicios desde un único sistema, mejorando la eficiencia y la satisfacción del cliente.
+
+7. Problemática:
+
+    Inconveniencia en la Reserva de Citas: Los clientes encuentran tedioso y a veces frustrante tener que reservar citas por teléfono o en persona.
+    Gestión Ineficiente del Calendario: Los barberos y administradores encuentran difícil coordinar y gestionar las citas manualmente, lo que puede llevar a errores y duplicaciones.
+    Falta de Recomendaciones Personalizadas: Los clientes no reciben sugerencias basadas en sus preferencias y citas anteriores, lo que puede limitar su experiencia y satisfacción.
+
+8. Solución:
+
+    Desarrollar la plataforma "Barber Style", que permitirá:
+
+    Registro y Autenticación de Usuarios: Los clientes pueden crear una cuenta, iniciar sesión y gestionar sus perfiles.
+    Reserva de Citas en Línea: Los clientes pueden ver la disponibilidad de los barberos, seleccionar servicios y reservar citas en línea.
+    Gestión de Calendario: Los barberos y administradores pueden gestionar las citas de manera eficiente, confirmando o rechazando reservas y viendo detalles de las mismas.
+    Recomendaciones Personalizadas: La plataforma proporciona recomendaciones de estilo y productos basadas en el historial y preferencias del cliente.
+    Notificaciones y Recordatorios: Los clientes reciben notificaciones y recordatorios automáticos sobre sus próximas citas.
+    Comentarios y Valoraciones: Los clientes pueden dejar comentarios y valoraciones sobre sus experiencias, ayudando a mejorar la calidad del servicio.
+    Pagos en Línea: La plataforma permite realizar pagos en línea para mayor comodidad y seguridad.
+
+9. Requerimiento
