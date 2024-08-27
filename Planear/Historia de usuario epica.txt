@@ -17,15 +17,19 @@ Historia de usuario epica
 
 5. Escenario Actual:
 
-    En la actualidad, los clientes de la barbería deben llamar por teléfono o visitar físicamente la barbería para reservar una cita. Esto puede ser inconveniente tanto para los clientes como para los barberos, y puede resultar en citas perdidas o mal gestionadas debido a errores humanos o falta de comunicación efectiva.
+    En la actualidad, los clientes de la barbería deben llamar por teléfono o visitar físicamente la barbería para reservar una cita. 
+    Esto puede ser inconveniente tanto para los clientes como para los barberos, y puede resultar en citas perdidas o mal 
+    gestionadas debido a errores humanos o falta de comunicación efectiva.
 
 6. Escenario Objetivo:
 
-    La plataforma "Barber Style" permitirá a los clientes reservar citas en línea de manera fácil y conveniente, seleccionar servicios de barbería, y recibir confirmaciones automáticas. Los barberos y el administrador podrán gestionar todas las reservas, horarios y servicios desde un único sistema, mejorando la eficiencia y la satisfacción del cliente.
+    La plataforma "Barber Style" permitirá a los clientes reservar citas en línea de manera fácil y conveniente, 
+    seleccionar servicios de barbería, y recibir confirmaciones automáticas. Los barberos y el administrador podrán 
+    gestionar todas las reservas, horarios y servicios desde un único sistema, mejorando la eficiencia y la satisfacción del cliente.
 
 7. Problemática:
 
-    Inconveniencia en la Reserva de Citas: Los clientes encuentran tedioso y a veces frustrante tener que reservar citas por teléfono o en persona.
+    Los clientes encuentran tedioso y a veces frustrante tener que reservar citas por teléfono o en persona.
     Gestión Ineficiente del Calendario: Los barberos y administradores encuentran difícil coordinar y gestionar las citas manualmente, lo que puede llevar a errores y duplicaciones.
     Falta de Recomendaciones Personalizadas: Los clientes no reciben sugerencias basadas en sus preferencias y citas anteriores, lo que puede limitar su experiencia y satisfacción.
 
@@ -42,3 +46,44 @@ Historia de usuario epica
     Pagos en Línea: La plataforma permite realizar pagos en línea para mayor comodidad y seguridad.
 
 9. Requerimiento
+
+    La barbería Barber Style requiere un sistema de información transaccional que le permita gestionar las reservas de citas realizadas por 
+    parte de los clientes para servicios de barbería.
+    El sistema requiere gestionar la información relacionada con la ubicación del negocio [Globalidad Proceso] - (País, Departamento, Ciudad), 
+    gestionar la información relacionada con la empresa [Referente Empresarial] - (Barbería, Sedes, Empleados), gestionar la información del
+    cliente [Fidelización Cliente] - (Cliente, Tipo Documento, Tipo Género), gestionar la reserva de la cita [Control Transacción] - (Cita, Detalle de Cita, 
+    Estado de Cita).
+
+10. Objetos de Alto Valor
+
+    Geografia
+    Barberia/Empresa
+    Cliente
+    Servicio
+    Transaccion 
+
+11. Entidades de Alto Valor
+
+    Geografia
+        Pais
+        Departamento
+        Ciudad
+        
+    Barberia(Empresa)
+        Sede
+        Empleado
+
+    Cliente
+        Tipo Documento
+        Tipo Género
+
+    Servicio
+        Tipo Servicio
+        Detalle Servicio
+        Estado Servicio
+
+    Transaccion
+        Factura
+        Detalle Factura
+        Estado de la Factura
+   
