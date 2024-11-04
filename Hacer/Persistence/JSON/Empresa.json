@@ -1,0 +1,5 @@
+[
+{"_id":{"$oid":"6704ca8d3e7be332000b0aa0"},"idSede":"86d43429-5c1c-45cc-a852-f0846be3d228","Direccion":"Calle 123","NIT":"900123456","idCiudad":"bb84cd62-64a6-44ac-b41a-cdf1a3b3b229","Barberos":[{"idBarbero":"df3438f2-79f3-4e5a-b057-5e643925144f","Nombre":"Juan","Apellido":"Pérez"}]},
+{"_id":{"$oid":"6704ca8d3e7be332000b0aa1"},"idSede":"df7ea08c-c53b-48eb-a947-67f770c759d2","Direccion":"Avenida 45","NIT":"900654321","idCiudad":"1a4147a9-574b-48cd-8edb-652a4f6b38ae","Barberos":[{"idBarbero":"12e7fd25-6780-4a8a-ac73-8fc71526d0e3","Nombre":"Carlos","Apellido":"Martínez"}]},
+{"_id":{"$oid":"6704ca8d3e7be332000b0a9f"},"idSede":"13f8ada8-00cc-4f5f-a449-6af69a8a64d6","Direccion":"Calle Revolución","NIT":"900987654","idCiudad":"486ef0fe-3cce-4add-8290-530461a62733","Barberos":[{"idBarbero":"f81235cc-5bf6-4130-9faa-7e74f068e82f","Nombre":"Luis","Apellido":"González"}]}
+]

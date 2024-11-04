@@ -1,0 +1,5 @@
+[
+{"_id":{"$oid":"670545633e7be332008bef54"},"idCatalogo":"cd351928-73a3-40fe-8d2d-b75186ef2736","DescripcionCatalogo":"Afeitado","idTipoServicio":"81ef98af-e67b-4874-a7b5-9711931d1043","DescripcionTipoServicio":"Afeitado","Valor":{"$numberInt":"5000"},"idServicio":"4db7a3e8-9fff-4a14-a743-a41563c9bcb7","EstadoServicio":"Pendiente"},
+{"_id":{"$oid":"670545633e7be332008bef52"},"idCatalogo":"9df41519-b16b-4339-bb04-35a7684c7600","DescripcionCatalogo":"Corte de Cabello","idTipoServicio":"271dafa1-4a89-40a0-91ba-4222fc74eb7d","DescripcionTipoServicio":"Corte Hombre","Valor":{"$numberInt":"10000"},"idServicio":"353bc8ee-672f-4a57-97d5-c2dad7bc02e7","EstadoServicio":"En Proceso"},
+{"_id":{"$oid":"670545633e7be332008bef53"},"idCatalogo":"9df41519-b16b-4339-bb04-35a7684c7600","DescripcionCatalogo":"Corte de Cabello","idTipoServicio":"3343a4d2-cf11-41e7-8dc6-06a8d2a805ab","DescripcionTipoServicio":"Corte Mujer","Valor":{"$numberInt":"20000"},"idServicio":"6172f190-ddb2-4bd0-9fe2-b3b4e386b145","EstadoServicio":"Completado"}
+]

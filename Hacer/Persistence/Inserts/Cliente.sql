@@ -1,0 +1,5 @@
+-- Inserción de datos en la tabla Cliente
+INSERT INTO Cliente (idCliente, Nombre, Apellido, FechaNacimiento, Correo, idTipoDocumento, idTipoEstadoCivil, idTipoGenero) VALUES
+(uuid_generate_v4(), 'Pedro', 'García', '1990-01-01', 'pedro@gmail.com', (SELECT idTipoDocumento FROM Tipo_Documento WHERE Descripcion = 'Cédula'), (SELECT idTipoEstadoCivil FROM Tipo_EstadoCivil WHERE Descripcion = 'Soltero'), (SELECT idTipoGenero FROM Tipo_Genero WHERE Descripcion = 'Masculino')),
+(uuid_generate_v4(), 'Ana', 'Lopez', '1985-05-05', 'ana@gmail.com', (SELECT idTipoDocumento FROM Tipo_Documento WHERE Descripcion = 'Pasaporte'), (SELECT idTipoEstadoCivil FROM Tipo_EstadoCivil WHERE Descripcion = 'Casado'), (SELECT idTipoGenero FROM Tipo_Genero WHERE Descripcion = 'Femenino')),
+(uuid_generate_v4(), 'Jorge', 'Martinez', '1975-07-07', 'jorge@gmail.com', (SELECT idTipoDocumento FROM Tipo_Documento WHERE Descripcion = 'Licencia de Conducir'), (SELECT idTipoEstadoCivil FROM Tipo_EstadoCivil WHERE Descripcion = 'Divorciado'), (SELECT idTipoGenero FROM Tipo_Genero WHERE Descripcion = 'Masculino'));

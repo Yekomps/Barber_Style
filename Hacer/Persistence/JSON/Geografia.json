@@ -1,0 +1,5 @@
+[ 
+{"_id":{"$oid":"6704c6f43e7be33200f1c043"},"idpais":"710e6d7e-0b5e-4623-aa3a-6d26501c33e7","iddepartamento":"8a44f05c-76f2-45b6-b612-43539d394d32","idciudad":"bb84cd62-64a6-44ac-b41a-cdf1a3b3b229","nombrepais":"Colombia","nombredepartamento":"Antioquia","nombreciudad":"Medellín"},
+{"_id":{"$oid":"6704c6f43e7be33200f1c045"},"idpais":"25208e44-cc41-4a93-8fc8-9ada2b19fc9b","iddepartamento":"24e8f233-6df4-4fa4-bff3-2c66075b655b","idciudad":"486ef0fe-3cce-4add-8290-530461a62733","nombrepais":"México","nombredepartamento":"Jalisco","nombreciudad":"Guadalajara"},
+{"_id":{"$oid":"6704c6f43e7be33200f1c044"},"idpais":"5a7656b3-c8cc-4ab8-9ae6-b0b16435446d","iddepartamento":"e3a32357-a9d4-4796-bce5-ff052991d7b6","idciudad":"1a4147a9-574b-48cd-8edb-652a4f6b38ae","nombrepais":"Argentina","nombredepartamento":"Buenos Aires","nombreciudad":"La Plata"}
+]
